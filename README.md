@@ -5,8 +5,8 @@ I developed this to be able to use in Unity3D, but I realised that it can have a
 ## Current ease functions
 ### Linear
 #### In & Out & InOut
-![Linear Equation](R:/MarkBromell/Projects/Software/Libs/C#/Easing/ReadmeImages/images/linear-eq.PNG)
-![Linear Graph](R:/MarkBromell/Projects/Software/Libs/C#/Easing/ReadmeImages/gifs/linear-in.gif)
+![Linear Equation](https://github.com/MarkBromell/easing-functions/blob/readme/ReadmeImages/images/linear-eq.PNG)
+![Linear Graph](https://github.com/MarkBromell/easing-functions/blob/readme/ReadmeImages/images/linear-in.gif)
 
 ### Sine
 
