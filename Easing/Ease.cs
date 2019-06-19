@@ -21,13 +21,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-using System;
-
 namespace Easing
 {
-    //
-    // All methods return a float in the range of 0 <= x <= 1.
-    //
+    using System;
+
     public partial class Ease
     {
         private const float MIN = 0.0f;
